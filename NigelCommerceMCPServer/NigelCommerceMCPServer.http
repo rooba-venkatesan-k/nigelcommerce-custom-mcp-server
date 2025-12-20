@@ -1,0 +1,6 @@
+@NigelCommerceMCPServer_HostAddress = http://localhost:5043
+
+GET {{NigelCommerceMCPServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
