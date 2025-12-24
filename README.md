@@ -74,5 +74,5 @@ The server will be available for MCP-compatible clients to connect via SSE at th
 
 ## 📖 Detailed Usage Guide
 
-For more information on how to configure this server with **Claude Desktop** and **VS Code**, and for example prompts to test the integration, check out the [instructions.md](https://github.com/rooba-venkatesan-k/nigelcommerce-custom-mcp-server/instructions.md) file.
+For more information on how to configure this server with **Claude Desktop** and **VS Code**, and for example prompts to test the integration, check out the [instructions.md](https://github.com/rooba-venkatesan-k/nigelcommerce-custom-mcp-server/blob/main/INSTRUCTIONS.md) file.
 
