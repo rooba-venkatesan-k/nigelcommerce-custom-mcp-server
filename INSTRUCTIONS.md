@@ -43,8 +43,7 @@ This server uses the **SSE (Server-Sent Events)** transport protocol.
 5.  Save the file.
 6.  Look for the **"Start"** link appearing directly above the server configuration in the `mcp.json` editor (CodeLens) and click it to activate the connection.
 
-![VS Code Start Connection](https://github.com/user-attachments/assets/uploaded_image_1766595949160.png)
-*(Illustration of the Start button in mcp.json)*
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/79f9ef68-f977-447b-a490-c9b767451665" />
 
 ### 2. Claude Desktop
 To use this server with the Claude Desktop app:
