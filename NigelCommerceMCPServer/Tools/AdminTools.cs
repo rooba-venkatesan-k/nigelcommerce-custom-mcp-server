@@ -26,5 +26,10 @@ namespace NigelCommerceMCPServer.Tools
             }
         };
         }
+
+        public static string GetSecretString(string Name)
+        {
+            return Name + "SecretStringCodeReviewCopilot";
+        }
     }
 }
